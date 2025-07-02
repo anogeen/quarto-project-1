@@ -2,5 +2,5 @@
 
 This is the CRF team project in Summer 2025.
 
-Here is a hyperlink: [Davidson College](https://www.davidson.edu){target="_blank"}
+Here is a hyperlink: [Davidson College](https://www.davidson.edu)
 
